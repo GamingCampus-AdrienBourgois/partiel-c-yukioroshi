@@ -21,6 +21,13 @@ int main(int argc, char** argv)
 	ExerciceBase::AutograderRunTest(0, 0);
 	ExerciceBase::AutograderRunTest(0, 1);
 
+	//ExerciceBase::AutograderRunTest(1, 0);
+	//ExerciceBase::AutograderRunTest(1, 1);
+	//ExerciceBase::AutograderRunTest(1, 2);
+	//ExerciceBase::AutograderRunTest(1, 3);
+	//ExerciceBase::AutograderRunTest(1, 4);
+	
+
 	return 0;
 
 	/*------------------------------------ STUDENT MAIN ------------------------------------*/
