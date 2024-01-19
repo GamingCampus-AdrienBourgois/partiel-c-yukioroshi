@@ -4,10 +4,9 @@
 #include "StudentConfiguration.h"
 #ifdef COMPILE_EXERCICE_1
 
-float Solution1::ConvertTemperature(float _value, TemperatureUnits _from, TemperatureUnits _to)
+float Solution1::ConvertTemperature(double value, TemperatureUnits fromUnit, TemperatureUnits toUnit)
 {
-	TemperatureUnits ValKel = TemperatureUnits::KELVIN
-	CELSIUS = ValKel - 273.15;
+
 	return -1.0f;
 }
 
